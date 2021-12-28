@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "https://anpu-zola-theme.netlify.app"
+base_url = "https://graceful-degradation.netlify.app"
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
@@ -11,9 +11,9 @@ highlight_code = true
 # Whether to build a search index to be used later on by a JavaScript library
 build_search_index = false
 
-title = "Anpu theme"
-description = "A clean blogging theme"
-generate_feed = true
+title = "Graceful Degradation"
+description = "Resilient media systems"
+generate_feed = false
 
 taxonomies = [
     {name = "tags", rss = true},
