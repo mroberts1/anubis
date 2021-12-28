@@ -6,7 +6,7 @@ date = 2021-11-19
 tags = ["teaching"]
 +++
 
-## Waiting to Exhale: A Year of Teaching in a Surgical Mask
+## A Year of Teaching in a Surgical Mask
 
 My glasses are steaming up again. I can barely see the group of masked students in the shoebox-shaped classroom in front of me and have to pause in mid-sentence, remove my glasses, wipe them off, and then clumsily replace them while trying not to get them caught up in the strings of the surgical mask I'm wearing. I'm already short of breath. Projecting to a room full of people requires larger quantities of air than normal speech, and to speak at the required volume I have to suck in air at a rate faster than the KF94 mask comfortably allows. As I inhale, the white mask contracts against my face, then billows out again like a sail as I speak. There are moments when I'm almost literally gasping for breath. When one of my students speaks, I'm distracted by watching his mask expanding and contracting against his face, reminding me of the ballooning respirators above patients' beds in hospitals. As soon as class is over and I get outside, I rip the mask off and gulp in the fresh evening air, feeling my body relaxing. But my head still aches from not having been able to breathe properly for the past hour and three quarters, something I noticed a while ago. The headaches have been getting worse lately; it isn't clear how far the effect is the result of oxygen starvation and how far it's from the stress of trying to teach for almost two hours while wearing a surgical mask. I remind myself that I need to step out for a minute or two when we take a break, not to go to the bathroom or drink some water, but just to take a few deep breaths - literally to get some air. This is teaching under a pandemic.
 
