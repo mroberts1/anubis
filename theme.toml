@@ -17,8 +17,8 @@ anpu_menu_links = []
 
 # The theme author info: you!
 [author]
-name = "Rostislav Raykov"
-homepage = "https://zbrox.com"
+name = "Martin Roberts"
+homepage = "https://mroberts.emerson.build"
 
 # If this is porting a theme from another static site engine, provide
 # the info of the original author here
